@@ -9,7 +9,7 @@ Este é um projeto desenvolvido em Flutter para aprimorar o desenvolvimento de U
 O Ranger Slider Flutter é um projeto pessoal para desenvolvimento de Apps com Flutter.
 
 <p align="center">
-    <img width="1200" height="625" src="https://firebasestorage.googleapis.com/v0/b/me-guia-tracuateua.appspot.com/o/Ranger%20Slider%20Flutter%2FHome%20(1).png?alt=media&token=10a0d7c0-e63d-48d3-b1b0-84061185fc12">
+    <img width="625" height="900" src="https://firebasestorage.googleapis.com/v0/b/me-guia-tracuateua.appspot.com/o/Ranger%20Slider%20Flutter%2FHome%20(1).png?alt=media&token=10a0d7c0-e63d-48d3-b1b0-84061185fc12">
 </p>
 
 <p align="center">
